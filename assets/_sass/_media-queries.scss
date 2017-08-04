@@ -129,7 +129,7 @@
     margin-left: $aside-margin-left;
     height: 100%;
     position: fixed;
-    left: 0;
+    left: $aside-margin-left;
     top: 0;
     background-attachment: scroll;
     z-index: 200;
