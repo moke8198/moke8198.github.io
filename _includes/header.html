@@ -5,6 +5,12 @@
   <nav class="center-wrapper nav-main">
 
     <a class="blog-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    
+    <a class="blog-logo">
+      <audio controls>
+        <source src="{{site.audio_file}}">
+      </audio>
+    </a>
 
     {% for my_page in site.pages %}
       {% if my_page.active %}
