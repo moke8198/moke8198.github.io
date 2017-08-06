@@ -1,7 +1,7 @@
 ---
 bg: "piano.jpeg"
 layout: page
-title: "Michael's Musings"
+title: "about"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
 summary: "a musical journey"
