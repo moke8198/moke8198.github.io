@@ -15,7 +15,7 @@ Learning to enjoy Bach’s music can be a challenge. To many they think he is bo
 
 Why is it then that so many performances of Bach are lacklustre, sometimes even by professional artists? As a student interpreting Bach is definitely something I struggle with, especially as I find that my interpretations can clash with more textbook readings of his works. I think that we have many misconceptions about Bach today, and I hope that the direction we take in performing his works will be able to revitalise his music in the modern repertoire, where I feel like Bach is absent from our large concert halls, replaced by the large scale works of the later composers. 
 
-<img src="https://moke8198.github.io/assets/images/rails.jpg" alt="Mountain View">
+<img src="https://moke8198.github.io/assets/images/performancemass.jpg" alt="">
 Historical Accuracy
 
 The music of Bach is probably the oldest music still commonly played today, and historical accuracy is always a big point when people discuss performances of his music. I think that while historical accuracy to some degree has its importance, we should not neglect the capabilities of our modern instruments when performing his music. It is clear to me that Bach was looking to the future in his writing, so we should not limit his music by using his instruments which lack colour and aren’t appropriate for a big concert hall. Intimate settings of Bach are fine, but exposure of his music to a wider audience is desperately needed today.
