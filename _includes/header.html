@@ -5,18 +5,18 @@
   <nav class="center-wrapper nav-main">
 
     <a class="blog-logo" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    
-    <a class="blog-logo audio-player">
-      <audio controls title="{{site.audio_title}}">
-        <source src="{{site.audio_file}}">
-      </audio>
-    </a>
 
     {% for my_page in site.pages %}
       {% if my_page.active %}
         <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
       {% endif %}
     {% endfor %}
+    
+    <a class="blog-logo audio-player">
+      <audio controls title="{{site.audio_title}}">
+        <source src="{{site.audio_file}}">
+      </audio>
+    </a>
 
     <label for="menu-checkbox" class="toggle-button" data-open="☰" data-close="☰" onclick></label>
   </nav>
