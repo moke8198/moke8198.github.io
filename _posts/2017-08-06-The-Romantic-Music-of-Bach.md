@@ -3,7 +3,7 @@ layout: post
 title:  "The Romantic Interpretation of Bach"
 crawlertitle: "The Romantic Interpretation of Bach"
 summary: "This is the summary of the post"
-excerpt: "Learning to enjoy Bach’s music can be a challenge. To many they think he is boring; hampered by the limitations of his instruments and not expressive in his writing. Children are brought up to play Bach on the piano drily and without soul, especially by more inexperienced piano teachers. However, there is a reason his music has stood the test of time. It is music that touches the heart at its most primal level, more so than has been accomplished by another composer except maybe Beethoven."
+excerpt: "My first post! My ideas of performing Bach in a fresh and exciting way"
 date:   2017-08-06 17:09:47 +0800
 categories: posts
 tags: 'test'
