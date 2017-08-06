@@ -18,6 +18,7 @@ url: "https://moke8198.github.io" # the base hostname & protocol for your site
 twitter_username: lolilolicon_
 github_username:  moke8198
 disqus_username:
+audio_file: "test.mp3"
 
 # Build settings
 markdown: kramdown
