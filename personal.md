@@ -11,7 +11,7 @@ active: personal
   {% if post.type == 'short' %}
 <article class="index-page">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  {{ post.excerpt }}why
+  {{ post.excerpt }}
 </article>
   {% endif %}
 {% endfor %}
