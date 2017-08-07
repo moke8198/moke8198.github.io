@@ -80,5 +80,6 @@ For less advanced students, the Bach inventions are a priceless resource. A part
 <iframe width="560" height="550" src="https://www.youtube.com/embed/QfxkgSF7gxE" frameborder="0" allowfullscreen></iframe>
 <div class="captions">J.S.Bach Invention No.6 in E Major, BWV 792</div>
 Above is a recording of this invention by Andras Schiff. Schiff is well known for not using pedal in his playing, and although I do not agree with his interpretations all the time, here he has managed to capture the essence of this invention with a very musical reading. The theme is played almost <i>cantabile</i> and while singing, Schiff does not allow the music to drag as the running triplet figures push it along. Notice how the playing is not metronomic in the slightest, he often takes "breaths" to prepare new harmonies or surprises in the music.
+
 Bach was a pioneer, and without him music today might sound much different. To those unsure about my ideas, I would ask: Would Bach worry about handicapping himself, or would he use whatever was available to deliver the most convincing art? It is impossible for me to know Bach's exact idea on how to play his music, I can only try to use what is known about his music and his life and try to channel his spirit through my playing.
 
