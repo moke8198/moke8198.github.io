@@ -36,7 +36,8 @@ Harmonic writing is perhaps the most important aspect of choral compositions, bu
 <img src="https://moke8198.github.io/assets/images/bachfig2.png" alt=""> 
  Opening second soprano line, flattened notes in blue
 For me, this is the first completed phrase Bach has written. The line starts clearly in B minor, with Bach using the triplet figure at the end of bar 1 to push towards the dominant of F sharp. These three notes are the only notes present here, all other instruments and voices are silent, and listeners eagerly await the crashing chord of the dominant, A#-C#-F#. However, immediately after that in bar 2 we see Bach flatten these notes from A and C sharp to A and C natural. 
-<img src="https://moke8198.github.io/assets/images/bachfig3.png" alt=""> <img src="https://moke8198.github.io/assets/images/bachfig4.png" alt=""> 
+<img src="https://moke8198.github.io/assets/images/bachfig3.png" alt="">
+<img src="https://moke8198.github.io/assets/images/bachfig4.png" alt=""> 
 The expected dominant progression                        The unexpected diminished chord in the actual music
 
 Once again, this darkens the tone in a similar way to the descending tenor line from moments ago where instead of a dominant chord, we get a diminished sound. The genius of this writing is in how Bach has subverted our expectation of the dominant and replaced it with the subdominant; which is an exact mirroring of the first three chords!
