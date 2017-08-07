@@ -17,6 +17,7 @@ Learning to enjoy Bach’s music can be a challenge. To many they think he is bo
 Why is it then that so many performances of Bach are lacklustre, sometimes even by professional artists? As a student interpreting Bach is something I struggle with, especially as I find that my interpretations can clash with more textbook readings of his works. I think that we have many misconceptions about Bach today, and I hope that the direction we take in performing his works will be able to revitalise his music in the modern repertoire. I feel Bach is absent from our large concert halls, replaced by the large scale works of the later composers. What a shame, as Bach is certainly one of the greatest composers to have ever lived.
 
 <img src="https://moke8198.github.io/assets/images/performancemass.jpg" alt="">
+<div class="captions">A performance of the Bach B Minor Mass in 2012, taken from the BBC proms. Such performances are incredibly rare in Singapore.</div>
 
 <div class="captions">Historical Accuracy</div>
 
@@ -33,15 +34,17 @@ Bach has a purpose in writing this original introduction, I think it is to creat
 Here we can see how every note matters in Bach’s writing. Contrary to popular claims of his music being uninteresting harmonically, here in the first three chords we already see how he shades the music with a deep colour through his clever use of harmony. The key here is in the second chord, with the passing A natural in the tenor voice. Instead of simply copy-pasting the first chord onto the second beat for an uninteresting i-iv progression, the A natural darkens this progression and leads to an inevitable minor four chord with an added sixth in the bass. Within these three chords there is expression and emotion enough to match the highest points of the Mahler symphonies.
 
 <img src="https://moke8198.github.io/assets/images/bachfig1.png" alt="">
-Opening 3 chords of the Kyrie, descending tenor line in red, the key sixth note of the bass in blue. These coloured notes contain all the excitement of this music.
+<div class="captions">Opening 3 chords of the Kyrie, descending tenor line in red, the key sixth note of the bass in blue. These coloured notes contain all the excitement of this music</div>
 
 Harmonic writing is perhaps the most important aspect of choral compositions, but here Bach also shows his understanding of individual melody lines within the harmony. I would like to draw attention to the second soprano line in bars 1-2:
  
 <img src="https://moke8198.github.io/assets/images/bachfig2.png" alt=""> 
- Opening second soprano line, flattened notes in blue
+<div class="captions">Opening second soprano line, flattened notes in blue</div>
 For me, this is the first completed phrase Bach has written, a beautiful melody for the female voice. It is really quite tender and sweet compared to the rest of the music, but in hiding it beneath the first sopranos Bach has used it to enhance the other lines rather than overpower it. Writing little gems like this in the secondary voices also gives the careful listener many new rewards when they listen to the work for the second, third or hundredth time (in my case). The line starts clearly in B minor, with Bach using the triplet figure at the end of bar 1 to push towards the dominant of F sharp. These three notes are the only notes present here, all other instruments and voices are silent, and listeners eagerly await the crashing chord of the dominant, A#-C#-F#. However, immediately after that in bar 2 we see Bach flatten these notes from A and C sharp to A and C natural. 
-<img src="https://moke8198.github.io/assets/images/bachfig3.png" alt=""> <img src="https://moke8198.github.io/assets/images/bachfig4.png" alt=""> 
-<div class="captions">The expected dominant progression</div>                        <div class="captions">The unexpected diminished chord in the actual music</div>
+<img src="https://moke8198.github.io/assets/images/bachfig3.png" alt=""> 
+<div class="captions">The expected dominant progression</div>
+<img src="https://moke8198.github.io/assets/images/bachfig4.png" alt=""> 
+<div class="captions">The unexpected diminished chord in the actual music</div>
 
 Once again, this darkens the tone in a similar way to the descending tenor line from moments ago where instead of a dominant chord, we get a diminished sound. The genius of this writing is in how Bach has subverted our expectation of the dominant and replaced it with the subdominant; which is an exact mirroring of the first three chords! 
 <img src="https://moke8198.github.io/assets/images/bachfig5.png" alt="">
@@ -53,8 +56,8 @@ A more indepth analysis of these 4 bars:
 
 Disclaimer: This turned out to be way more difficult than I expected, and really shows the depth of Bach’s writing. Hopefully I didn’t make any terrible mistakes.
 <img src="https://moke8198.github.io/assets/images/bachfig6.png" alt="">
- 
-Condensed form of the choral writing in bars 1-4. A few notes have been edited out for clarity
+<div class="captions">Condensed form of the choral writing in bars 1-4. A few notes have been edited out for clarity</div>
+
 Here we can see the previously discussed tenor line in red and the flattening of the second soprano line to form a diminished harmony in blue in context. 
 
 Here we can see the previously discussed tenor line in red and the flattening of the second soprano line to form a diminished harmony in blue in context. 
