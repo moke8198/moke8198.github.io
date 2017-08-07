@@ -2,7 +2,7 @@
 bg: "piano.jpeg"
 layout: page
 title: "about"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "About Me"
 permalink: /about/
 summary: "a musical journey"
 active: about
