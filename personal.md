@@ -1,7 +1,7 @@
 ---
 bg: "music.jpeg"
 layout: page
-permalink: /posts/
+permalink: /personal/
 title: "Personal"
 crawlertitle: "Personal"
 summary: "Personal"
