@@ -3,7 +3,7 @@ bg: "music.jpeg"
 layout: page
 permalink: /posts/
 title: "Archive"
-crawlertitle: "All articles"
+crawlertitle: "Archive"
 summary: "knowledge is power"
 active: archive
 ---
