@@ -1,9 +1,11 @@
 ---
-bg: "photo.png"
-layout: default
-crawlertitle: "Music Musings"
-title: "Personal thoughts"
-summary: "from the heart – may it return to the heart"
+bg: "piano.jpeg"
+layout: page
+title: "personal"
+crawlertitle: "Personal thoughts"
+permalink: /about/
+summary: "Personal thoughts"
+active: Personal
 ---
 
 {% for post in site.posts limit: 5 %}
