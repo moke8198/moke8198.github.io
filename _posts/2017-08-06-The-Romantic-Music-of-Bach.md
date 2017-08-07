@@ -7,6 +7,7 @@ excerpt: "My first post! My ideas of performing Bach in a fresh and exciting way
 date:   2017-08-06 17:09:47 +0800
 categories: posts
 tags: 'interpretation'
+type: 'long'
 author: michael
 ---
 The Romantic Interpretation of Bach
