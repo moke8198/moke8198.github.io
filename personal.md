@@ -4,7 +4,7 @@ layout: page
 permalink: /Shorts/
 title: "Shorts"
 crawlertitle: "Shorts"
-summary: "not the kind you wear"
+summary: "lighter topics"
 active: personal
 ---
 {% for post in site.posts limit: 5 %}
