@@ -3,7 +3,7 @@ bg: "piano.jpeg"
 layout: page
 title: "personal"
 crawlertitle: "Personal thoughts"
-permalink: /about/
+permalink: /personal/
 summary: "Personal thoughts"
 active: Personal
 ---
