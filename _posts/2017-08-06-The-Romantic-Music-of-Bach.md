@@ -52,7 +52,7 @@ With the thought and creativity put into this music, Bach has achieved a tone th
 
 Bach shows an originality in his writing not just in the sense of melody and harmony, but also in structure. This opening four bar introduction is hard to link to the rest of the Kyrie, at least from a purely theoretical point of view. However, upon listening I do get the sense that they are somehow linked; it just <i>feels</i> right. Maybe I am missing something, or maybe not everything in music can be clearly defined in such a “scientific” sense. Either way, I think that this idea of a loosely connected introduction is extremely Romantic in nature. Consider the opening of the unfinished Schubert symphony or the first bars in the Schumann and Grieg piano concertos.  This idea is somewhat lost by Classical composers, where the theme is often presented as soon as possible. It is Beethoven who revived this tradition, and he was a flagbearer for Romantic music. I dare to say many of these ideas originated in Bach. In Beethoven’s music, there are many homages to Bach, such as his obsession with fugal writing in his later and more Romantic period.
 
-<div class="header">A more indepth analysis of these 4 bars<div>
+<div class="header">A more indepth analysis of these 4 bars</div>
 
 Disclaimer: This turned out to be way more difficult than I expected, and really shows the depth of Bach’s writing. Hopefully I didn’t make any terrible mistakes. Only read if you love harmony.
 <img src="https://moke8198.github.io/assets/images/bachfig6.png" alt="">
