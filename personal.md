@@ -1,10 +1,10 @@
 ---
 bg: "music.jpeg"
 layout: page
-permalink: /personal/
-title: "Personal"
-crawlertitle: "Personal"
-summary: "Personal"
+permalink: /Shorts/
+title: "Shorts"
+crawlertitle: "Shorts"
+summary: "not the kind you wear"
 active: personal
 ---
 {% for post in site.posts limit: 5 %}
