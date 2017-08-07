@@ -18,7 +18,7 @@ Why is it then that so many performances of Bach are lacklustre, sometimes even 
 
 <img src="https://moke8198.github.io/assets/images/performancemass.jpg" alt="">
 
-Historical Accuracy
+<div class="captions">Historical Accuracy</div>
 
 The music of Bach is probably the oldest music still commonly played today, and historical accuracy is always a big point when people discuss performances of his music. While historical accuracy to some degree has its importance, we should not neglect the capabilities of our modern instruments when performing his music. Bach was looking to the future in his writing, so I think we should not limit his music by using his instruments which lack colour and aren’t appropriate for a big concert hall. Intimate settings of Bach are fine, but exposure of his music to a wider audience is desperately needed today.
 
