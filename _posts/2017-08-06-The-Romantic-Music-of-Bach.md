@@ -28,20 +28,26 @@ The Bach B Minor Mass is the culmination of Bach’s writing, with most of the m
 <img src="https://moke8198.github.io/assets/images/bachkyrie.png" alt="">
 Here we can see how every note matters in Bach’s writing. Contrary to popular claims of his music being uninteresting harmonically, here in the first three chords we already see how he shades the music with a wealth of colours through his clever use of harmony. The key here is in the second chord, with the passing A natural in the tenor voice. Instead of simply copy-pasting the first chord onto the second beat for an uninteresting i-iv progression, the A natural darkens this progression and leads to an inevitable minor four chord with an added sixth in the bass. Within these three chords there is expression and emotion enough to match the highest points of the Mahler symphonies.
  
+<img src="https://moke8198.github.io/assets/images/bachfig1.png" alt="">
 Opening 3 chords of the Kyrie, descending tenor line in red, the key sixth note of the bass in blue. These coloured notes contain all the excitement of this music.
+
 Harmonic writing is perhaps the most important aspect of choral compositions, but here Bach also shows his understanding of individual melody lines within the harmony. I would like to draw attention to the second soprano line in bars 1-2:
  
+<img src="https://moke8198.github.io/assets/images/bachfig2.png" alt=""> 
  Opening second soprano line, flattened notes in blue
 For me, this is the first completed phrase Bach has written. The line starts clearly in B minor, with Bach using the triplet figure at the end of bar 1 to push towards the dominant of F sharp. These three notes are the only notes present here, all other instruments and voices are silent, and listeners eagerly await the crashing chord of the dominant, A#-C#-F#. However, immediately after that in bar 2 we see Bach flatten these notes from A and C sharp to A and C natural. 
-  
+<img src="https://moke8198.github.io/assets/images/bachfig3.png" alt=""> <img src="https://moke8198.github.io/assets/images/bachfig4.png" alt=""> 
 The expected dominant progression                        The unexpected diminished chord in the actual music
 
-Once again, this darkens the tone in a similar way to the descending tenor line from moments ago where instead of a dominant chord, we get a diminished sound. The genius of this writing is in how Bach has subverted our expectation of the dominant and replaced it with the subdominant; which is an exact mirroring of the first three chords! With the thought and creativity put into this music, Bach has achieved a tone that is so dark it could send chills down anyone’s spine. How fitting for the words “Kyrie eleison” (trans. Lord, have mercy [upon us]).
+Once again, this darkens the tone in a similar way to the descending tenor line from moments ago where instead of a dominant chord, we get a diminished sound. The genius of this writing is in how Bach has subverted our expectation of the dominant and replaced it with the subdominant; which is an exact mirroring of the first three chords!
+<img src="https://moke8198.github.io/assets/images/bachfig5.png" alt="">
+With the thought and creativity put into this music, Bach has achieved a tone that is so dark it could send chills down anyone’s spine. How fitting for the words “Kyrie eleison” (trans. Lord, have mercy [upon us]).
 
 Bach shows an originality in his writing not just in the sense of melody and harmony, but also in structure. This opening four bar introduction is hard to link to the rest of the Kyrie, at least from a purely theoretical point of view. However, upon listening I do get the sense that they are somehow linked; it just feels right. Maybe I am missing something, or maybe not everything in music can be clearly defined in such a “scientific” sense. Either way, I think that this idea of a loosely connected introduction is extremely Romantic in nature. Consider the opening of the unfinished Schubert symphony or the first bars in the Schumann and Grieg piano concertos.  This idea is somewhat lost by Classical composers, where the theme is presented as soon as possible. It is Beethoven who revived this tradition, and many say that he was a flagbearer for Romantic music. I dare to say many of these ideas originated in Bach, and in Beethoven’s music there are many homages to Bach, such as his obsession with fugal writing in his later and more Romantic period.
 
 A more indepth and slightly boring analysis of these 4 bars:
 This turned out to be way WAY more difficult than I expected, and really shows the depth of Bach’s writing. Hopefully I didn’t make any terrible mistakes. But first, a scary graphic:
+<img src="https://moke8198.github.io/assets/images/bachfig6.png" alt="">
  
 Condensed form of the choral writing in bars 1-4. A few notes have been edited out for clarity
 Here we can see the previously discussed tenor line in red and the flattening of the second soprano line to form a diminished harmony in blue in context. 
