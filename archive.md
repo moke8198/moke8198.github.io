@@ -4,7 +4,7 @@ layout: page
 permalink: /posts/
 title: "Archive"
 crawlertitle: "All articles"
-summary: "Previous posts"
+summary: "knowledge is power"
 active: archive
 ---
 
