@@ -7,7 +7,7 @@ crawlertitle: "Shorts"
 summary: "lighter topics"
 active: personal
 ---
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts %}
   {% if post.type == 'short' %}
 <article class="index-page">
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
