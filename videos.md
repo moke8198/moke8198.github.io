@@ -5,7 +5,7 @@ permalink: /music/
 title: "music"
 crawlertitle: "Music"
 summary: "the universal language"
-active: videos
+active: music
 ---
  <table style="width:100%">
 {% for post in site.posts %}
