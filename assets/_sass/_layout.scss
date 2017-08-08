@@ -8,6 +8,12 @@ a {
   &:active { text-decoration: none; }
 }
 
+table{
+    border: 1px solid black;
+    table-layout: fixed;
+    width: 420px;
+}
+
 iframe {
   height: 240px !important;
   width: 420px !important;
