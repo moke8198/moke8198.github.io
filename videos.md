@@ -11,6 +11,6 @@ active: videos
   {% if post.type == 'video' %}
  <iframe width="420" height="315"
 src="{{ post.link }}">
-</iframe>
+</iframe> {{ post.description }}
   {% endif %}
 {% endfor %}
