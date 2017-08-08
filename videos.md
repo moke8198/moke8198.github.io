@@ -1,10 +1,10 @@
 ---
 bg: "music.jpeg"
 layout: page
-permalink: /videos/
-title: "Videos"
-crawlertitle: "Videos"
-summary: "Videos"
+permalink: /music/
+title: "music"
+crawlertitle: "music"
+summary: "the universal language"
 active: videos
 ---
  <table style="width:100%">
