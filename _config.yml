@@ -27,7 +27,7 @@ relative_permalinks: false
 permalink: /:categories/:title/
 
 # Posts settings
-future: true
+future: false
 safe: false
 lsi: false
 excerpt_separator: "\n\n"
