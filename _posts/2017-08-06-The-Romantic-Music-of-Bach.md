@@ -55,7 +55,7 @@ Bach shows an originality in his writing not just in the sense of melody and har
 <div class="header">A more indepth analysis of these 4 bars</div>
 
 Disclaimer: This turned out to be way more difficult than I expected, and really shows the depth of Bach’s writing. Hopefully I didn’t make any terrible mistakes. Only read if you love harmony.
-<img src="https://moke8198.github.io/assets/images/bachfinal.png" alt="">
+<img src="https://moke8198.github.io/assets/images/bachfinal.PNG" alt="">
 <div class="captions">Condensed form of the choral writing in bars 1-4. A few notes have been edited out for clarity</div>
 
 Here we can see the previously discussed tenor line in red and the flattening of the second soprano line to form a diminished harmony in blue in context. 
