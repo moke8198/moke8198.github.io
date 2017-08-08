@@ -7,10 +7,14 @@ crawlertitle: "Videos"
 summary: "Videos"
 active: videos
 ---
+ <table style="width:100%">
 {% for post in site.posts %}
   {% if post.type == 'video' %}
- <iframe width="420" height="315"
-src="{{ post.link }}">
-</iframe> {{ post.description }}
+<tr>
+ <td><iframe width="420" height="315"
+  src="{{ post.link }}">
+  </iframe></td><td> {{ post.description }}</td>
+</tr>
   {% endif %}
 {% endfor %}
+</table> 
