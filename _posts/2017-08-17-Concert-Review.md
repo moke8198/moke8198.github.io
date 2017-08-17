@@ -45,7 +45,7 @@ Und dann, Diana Soh: Really poor. Made no sense to me whatsoever. At times felt 
 A Moment of Singapore, Dieter Mack: First good use of the prepared piano. Was fairly interesting at first, but after a while I got bored as it all began to sound the same. Ends with a bang for  no discernible reason except to shock. Did not get any idea of Singapore in the piece.
 
 
-Happy 10th Anniversary for CSS, Kee Yong Chong: Basically only inside playing. This is what I imagine cleaning a piano sounds like. I would not let anyone play this on my piano. Ernst sang a couple of notes during this; on top of being a great pianists, he has a pretty good voice.
+Happy 10th Anniversary for CSS, Kee Yong Chong: Basically only inside playing. This is what I imagine cleaning a piano sounds like. I would not let anyone play this on my piano. Ernst sang a couple of notes during this; on top of being a great pianist, he has a pretty good voice.
 
 
 Sixty Seconds, Kim Ngoc: There was a ticking noise during this, like a metronome. Added nothing to the music, except literally making it last a minute. Was it added just to make it sound different from other contemporary music?
