@@ -110,7 +110,7 @@ Phosphorous, Eric Watson: More fascinating than pleasant. Had a lot of interesti
 Wind, Kongmeng Liew: I could feel the impressionistic qualities in the music quite well. However, there was almost no surprise or interest in the music. 
 
 
-RipPed feAtheRs, Darren Sng: These feathers are certainly ripped. Sounded like a getting hit by a truck, plane, and rocketship at the same time. Had a quiet ending, but that wasn't nice either.
+RipPed feAtheRs, Darren Sng: These feathers are certainly ripped. Sounded like getting hit by a truck, plane, and rocketship at the same time. Had a quiet ending, but that wasn't nice either.
 
 
 Timang Burung, Yii Kah Hoe: Had quite a few colours, and remained interesting throughout. Nothing very special, but it was nice. Not enough to warrant a second hearing.
