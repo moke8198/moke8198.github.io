@@ -54,7 +54,7 @@ Sixty Seconds, Kim Ngoc: There was a ticking noise during this, like a metronome
 A short piece for pianoforte No.6, Michael Asmara: A lot of noise and pianistic bluster, but quite bearable. Like if two symphonies were layered and then transcribed to piano, and the performer was then told to play wrong notes half the time.
 
 
-a postieriori, Jonas Baes: Another really poor piece in my opinion. A lot of random sounding notes interspersed with silence. the silence was the best part. Suddenly turned into a super tonal and honestly beautiful piece, which made me think I had missed something.
+a postieriori, Jonas Baes: Another really poor piece in my opinion. A lot of random sounding notes interspersed with silence. The silence was the best part. Suddenly turned into a super tonal and honestly beautiful piece, which made me think I had missed something.
 
 
 Hinterland, Vivienne Tan: Quite nice. Had an impressionistic feel to it. Definitely felt like it could be representing Hinterland, whatever that is. It sounded like a far away epic place.
