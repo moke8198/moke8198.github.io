@@ -50,7 +50,7 @@ The <i>Missa Solemnis</i> was finished in 1823, when Beethoven was by most accou
 
 <img src="https://moke8198.github.io/assets/images/choral2.png" alt="">
 
-There are a few parts to this Agnus Dei, but I would say that it is a work of two colours. It opens dark and tragic, almost like a funeral march, as the soloists and chorus plead <i>miserere nobis</i> (Grant us pity). However, at bar 96 there is a change of tempo from Grave to Allegretto vivace, as the chorus now prays for peace (<i>dona nobis pacem<i/>). Immediately we get a hint of a capella colours, in bars 97-99, with the vocal line being doubled in the orchestra without harmony. However, this is not yet a complete phrase, and the orchestra eventually comes in with some additional parts to build up the music. Beethoven is slowly bending the rules, testing their breaking point. Soon, there will be an even more magical moment.
+There are a few parts to this Agnus Dei, but I would say that it is a work of two colours. It opens dark and tragic, almost like a funeral march, as the soloists and chorus plead <i>miserere nobis</i> (Grant us pity). However, at bar 96 there is a change of tempo from Grave to Allegretto vivace, as the chorus now prays for peace (<i>dona nobis pacem</i>). Immediately we get a hint of a capella colours, in bars 97-99, with the vocal line being doubled in the orchestra without harmony. However, this is not yet a complete phrase, and the orchestra eventually comes in with some additional parts to build up the music. Beethoven is slowly bending the rules, testing their breaking point. Soon, there will be an even more magical moment.
 
 img src="https://moke8198.github.io/assets/images/choral3.png" alt="">
 
