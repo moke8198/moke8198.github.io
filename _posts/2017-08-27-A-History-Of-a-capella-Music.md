@@ -10,7 +10,7 @@ tags: 'Analysis'
 type: 'long'
 author: michael
 ---
-A capella singing has fascinated me for a long time. I think that the human voice is the purest instrument; and having unaccompanied music for the voice can produce some of the most beautiful sounds ever put to paper. However, it is very easy for a capella music to become boring, and it places a great burden on both the composer and the performers. Uninventive writing quickly causes the music to become stale, and slight intonation errors can ruin the resonance of the entire piece. There is a mystical chorale sound, where the four voices are so perfectly in harmony that only a few singers can fill a concert hall. This sound is desperately and painstakingly sought by even the most professional choirs, and modern a capella groups settle for autotune to mimic this resonance. Yet, in my opinion there is a potential in this kind of music to paint colours that are truly unique. There is no better example of this is in one of the oldest pieces of music I know, the famous Allegri <i>Miserere</i>.
+A capella singing has fascinated me for a long time. I think that the human voice is the purest instrument; and having unaccompanied music for the voice can produce some of the most beautiful sounds ever put to paper. However, it is very easy for a capella music to become boring, and it places a great burden on both the composer and the performers. Uninventive writing quickly causes the music to become stale, and slight intonation errors can ruin the sound of the entire piece. There is a mystical chorale sound, where the four voices are so perfectly in harmony that only a few singers can fill a concert hall. This sound is desperately and painstakingly sought by even the most professional choirs, and modern a capella groups settle for autotune to mimic this resonance. Yet, in my opinion there is a potential in this kind of music to paint colours that are truly unique. There is no better example of this is in one of the oldest pieces of music I know, the famous Allegri <i>Miserere</i>.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/36Y_ztEW1NE" frameborder="50" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ Of course, this work is just a transcription of his Adagio for strings, and argu
 
 <div class="header">A capella Music Today</div>
 
-I am not a big fan of a capella arrangements of pop music, although they are well liked among most young people and I do encourage the continuation of this tradition of music making. Here we have something more down my alley, an a capella transcription of the famous Nimrod from the <i>Enigma variations</i> by Edward Elgar.
+I am not a big fan of a capella arrangements of pop music, although they are well liked among most young people and I do encourage the continuation of this tradition of music making. Here we have something more down my alley, an a capella transcription of the famous Nimrod from the <i>Enigma Variations</i> by Edward Elgar.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IwdeqVmXlHk" frameborder="50" allowfullscreen></iframe>
 
