@@ -6,7 +6,7 @@ summary: "opinions are my own"
 excerpt: "My first post! My ideas of performing Bach in a fresh and exciting way."
 date:   2017-08-06 17:09:47 +0800
 categories: posts
-tags: 'interpretation'
+tags: 
 type: 'long'
 author: michael
 ---
