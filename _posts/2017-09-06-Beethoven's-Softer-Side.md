@@ -6,7 +6,7 @@ summary: "opinions are my own"
 excerpt: "Looking at a different side of Beethoven, and hopefully offering insights into his symphonic writing and evolution as a composer."
 date:   2017-09-06 17:09:47 +0800
 categories: posts
-tags: 
+tags: ''
 type: 'long'
 author: michael
 ---
