@@ -11,7 +11,7 @@ type: 'long'
 author: michael
 ---
 
-Over the course of history, music has evolved hand in hand with the art. Beyond the more direct comparisons of Debussy and Monet, I think there exists a subtle thread that binds the two professions together.  Cultural and political climates affect both music and art, and can push creative minds in different fields to think in the same direction. After all, music is merely art for the ears. In this first post, I will be looking up till the Classical Period, as there’s a lot to cover.
+Over the course of history, music has evolved hand in hand with the art. Beyond the obvious comparisons of Debussy and Monet, I think there exists a subtle thread that binds the two professions together.  Cultural and political climates affect both music and art, and can push creative minds in different fields to think in the same direction. After all, music is merely art for the ears. In this first post, I will be looking up till the Classical Period, as there’s a lot to cover.
 
 <div class="header">What was before the Baroque?</div>
 
