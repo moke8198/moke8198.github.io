@@ -29,10 +29,10 @@ active: music
 <tr>
  <td>
    <iframe
-  src="https://www.youtube.com/embed/pf4UNJqv_-A">
+ src="https://www.youtube.com/embed/TYl8GRJGnBY">
   </iframe>
   </td>
-  <td> The tragic opening to the great St Matthew's Passion. This work, which details the death of Christ, opens with some of the most innovative uses of a double choir in the repetoire. The two choirs represent the disciples of Jesus, and the everyday man, calling to each other. An example of this is where on the final cadence of this section the words <i>Seht — Wohin? — auf unsre Schuld</i>, or "Look? — Where? — To our guilt" are heard. The choral dialogue begins around 3:05 in this recording.
+  <td> One of the great soprano arias of all time. Norma is a fantastic opera, and no aria shows it off better than Casta Diva, where the titular character prays to the goddess of the moon. This kind of <i>bel canto</i> singing is exactly what Chopin tried to emulate in his Nocturnes and Ballades. To me, almost required listening for a serious interpretation of any of Chopin's music.
   </td>
 </tr>
 </table> 
