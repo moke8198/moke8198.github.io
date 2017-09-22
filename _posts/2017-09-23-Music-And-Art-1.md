@@ -1,6 +1,5 @@
 ---
 layout: post
-active: 'about'
 title:  "Art for the Eyes and Ears"
 crawlertitle: "Art for the Eyes and Ears"
 summary: "opinions are my own"
