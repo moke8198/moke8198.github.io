@@ -26,7 +26,7 @@ permalink: /:categories/:title/
 
 # Posts settings
 future: true
-safe: true
+safe: false
 lsi: false
 excerpt_separator: "\n\n"
 
