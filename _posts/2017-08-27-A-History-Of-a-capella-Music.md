@@ -6,7 +6,7 @@ summary: "opinions are my own"
 excerpt: "Following the evolution of unaccompanied singing from the Rennaisance to the present day."
 date:   2017-08-23 17:09:47 +0800
 categories: posts
-tags: 'analysis'
+tags: 'history'
 type: 'long'
 author: michael
 ---
