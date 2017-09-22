@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A History of a capella Music"
-crawlertitle: "A History of a capella Music"
+title:  "Art for the Eyes and Ears"
+crawlertitle: "Art for the Eyes and Ears"
 summary: "opinions are my own"
 excerpt: "Finding the connections between different art forms, and how history directly affects artists and musicians."
 date:   2017-09-23 17:09:47 +0800
