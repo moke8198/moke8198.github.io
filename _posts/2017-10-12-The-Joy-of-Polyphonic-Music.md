@@ -18,6 +18,9 @@ Among his many crowning achievements, Bach has written something special for key
 
 There are many creative passages in this fugue, however structurally it follows the formula of any other Baroque fugue. There are three obvious things of note; the first subject, countersubject, and a recurring episode of music that holds the music together (think of it as a sauce that ties a dish of food together). However, the way this music is intertwined with false starts, <i>stretto</i> and all kinds of polyphonic techniques is what makes this fugue in my opinion the most challenging of the entire book, both technically and especially musically. Of course, each of these three individual components of the music is special as well, and the entire thing can be difficult to understand. I’ll break the music first into its basic elements, before looking at it together. Before that, here’s a recording of the work:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cOzwicNcopQ" frameborder="0" allowfullscreen></iframe>
+<div class="captions">I love these animated versions of Bach's music. So pretty to look at</div>
+
 Immediately, most people will be shocked at how dissonant the entire thing is. Especially if the long notes are played with trill, the whole thing can sound jarring and even quite modern. The entire piece is sombre and full of pain, even in the short releases of the relative major, and the key is often ambiguous and requires a fast mind to place. It is also very long, it’s six pages of music compared to the usual two, and it’s slow music at that. The key is shared with the famous B Minor Mass, and this colour that is so dark compared to the light of C Major is apparent straight away from the subject of the fugue. It’s incredible that a single melody line can hold so much colour, but this is no ordinary subject.
 
 <img src="https://moke8198.github.io/assets/images/fugue1.png" alt="">
