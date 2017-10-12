@@ -3,7 +3,7 @@ layout: post
 title:  "The Joy of Polyphonic Music-The Art of a Fugue"
 crawlertitle: "The Joy of Polyphonic Music-The Art of a Fugue"
 summary: "opinions are my own"
-excerpt: "Exploring Mozart's development of themes in his operas through character analysis."
+excerpt: "Looking at my favourite fugue from a different perspective"
 date:   2017-10-12 17:09:47 +0800
 categories: posts
 tags: 'analysis'
