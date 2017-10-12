@@ -63,7 +63,7 @@ This countersubject is more important than it seems, and I’ll spend a lot of t
 
 There is one more theme in this fugue that can be identified, it is an “episodic” section, one that is used to provide a break from the subject and countersubject. This episode appears thrice, or six times depending on your point of view, since whenever it is introduced it is immediately repeated. It is defined by this descending sequence, and it’s most charming aspect is certainly its rhythm:
 
-img src="https://moke8198.github.io/assets/images/fugue7.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue7.png" alt="">
 <div class="captions">I think the semiquaver-quaver rhythm here is really cute</div>
 
 Thankfully, there’s not much to be said about this episode without looking at how it works together with the other two (three?) subjects. Let’s dive right into that then, it’s quite the adventure.
@@ -82,16 +82,16 @@ I call these three the “elements” of the fugue.
 
 For me, the beauty of this fugue is in how its beginning is so difficult to grasp, and yet as we come to the end it feels as if the music somehow “works”, despite Bach using the same four elements throughout. This is achieved through several techniques we will look at later, but in the beginning we have a more barebones presentation of these elements. If we look at the first two pages, the subject at least is treated rather simply. After the first subject, any repeats of the subject are called answers. There are two kinds of answers, a “real” one and a “tonal” one. Real answers are when the subject is transposed perfectly to the new key, without any change of interval. Tonal answers are when the intervals are changed to preserve the harmony and avoid dissonances. For these opening sections, Bach uses the traditional method of alternating between these two kinds of answers, first a tonal answer than a real one. What’s interesting about this is that all the real answers are the same, and therefore identical to the subject. Even the tonal answers are in the same key, and are identical to each other. 
 
-img src="https://moke8198.github.io/assets/images/fugue8.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue8.png" alt="">
 <div class="captions">Bars 4-6, tonal answer in the left hand</div>
 
 When we look at these tonal answers, a problem arises: they are the same, but what key are they in? If we look at the first example of a tonal answer above, it’s very hard to place a key onto this music. We can suggest that since it is a fourth higher than the subject of a B minor fugue, it must be in the key of E minor. However, the A#, E#, and G# in the right hand all contradict this very strongly (highlighted blue). To make matters worse, we see the countersubject here quite clearly in the key of B minor, in bar 6. If we look further to the next two bars for help, we see this:
 
-img src="https://moke8198.github.io/assets/images/fugue9.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue9.png" alt="">
 
 Let’s try again. Perhaps we can look to the HS in bar 4 for help (seen below). Unfortunately, this first HS is a complete mess: not only does it have the previously mentioned E# and G#, it can’t even agree with itself and has both C# and C natural! The countersubject is usually in the dominant, and all the notes except the C natural do agree with F# major. Hence, we might say the HS is presented here in F# major and try and brush the C natural under the rug with some desperate excuse; perhaps Bach wanted the intensity of a tritone to darken the music? 
 
-img src="https://moke8198.github.io/assets/images/fugue10.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue10.png" alt="">
 <div class="captions">It’s quite unsatisfying to say the above passage is in F# major (bar 4)</div>
 
 Even if we allow ourselves such freedom of interpretation (which I am definitely guilty of in analysis), the picture still doesn’t make sense. We have the tonal answer in E minor, the CS in B minor, and the HS in F sharp major! Remember, all of these subjects have chromatic notes in them, which makes identifying the key even tougher, and puts into question all the work we have done to even get to this point. 
@@ -108,7 +108,7 @@ Yet, I don’t believe this music at <i>any</i> point has no tonal centre; it is
 
 Before we tackle these four bars, let’s return to something simpler. The “key” of the subject has been roughly defined by me; I used the frequency of repeated notes to identify a kind of B minor-F# major/minor relationship. This can be taken further, if we use some creativity to approach the problem. The greatest issue I think is that the most commonly repeated note is F#, which is of course not the tonic note. Here’s my solution:
 
-img src="https://moke8198.github.io/assets/images/fugue11.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue11.png" alt="">
 
 The first two F sharps in the subject in blue are what I consider to be B Minor F Sharps. The first F sharp is part of a B minor triad, while the second is an appoggiatura from the note G. G is in B minor, but not in either of the F sharp keys. If we look at the next two F Sharps in red, they are “true” F sharps, I consider them to be the tonic of the F sharp scale. There is symmetry here: the third F sharp is in a similar appoggiatura, this time on the accented note leading to E#. E# is not in the B minor scale, but is the seventh degree of the F sharp scale. Similarly, the final F sharp is part of a F sharp minor triad, placing it firmly in that key. If we look at it again, I suggest a different split of these repeated notes:
 
@@ -122,7 +122,7 @@ With a less restricted sense of tonality, let’s see if we can see a method beh
 
 Bach wanted to use this C natural somewhere in this music, and we see it in bar four in the HS. This feels like a note out of place, but I think it has been placed here out of necessity. It adds colour, but more importantly it maintains the kind of twelve tone dissonance that has been going on. There’s some proof of this: looking to the HS in bar 9, we can see that every note has been inverted but the C natural has not been maintained. Instead both the fourth and last note of these eight semiquavers is the same, rather than a semitone apart (If the inversion was perfect, the note in blue below should be a B sharp). I told you I would get back to this “mistake” in the inversion.
 
-img src="https://moke8198.github.io/assets/images/fugue12.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue12.png" alt="">
 <div class="captions">The HS presented in Bar 9. This is the real HS, what we have in bar 4 is a variation of it</div>
 
 Hence, we get this rather confusing idea that the first time the HS is presented it is already modified. It is like starting immediately with a tonal answer before we have even heard the subject. For proof of this, in bar 13 we once again see the HS in its inverted form, a real answer to the HS in bar 9. This brings with it quite a revelation: the first HS in bar 4 cannot be seen again in the entire piece, so perhaps it’s <i>not</i> the real hidden subject, but rather an inversion of it. This is exactly why it felt so “hidden” to begin with. The real HS is actually the second one, found in bar 9! <b>We are hearing a variation before the theme.</b> This first inverted HS in bar 4s then joined to the CS by the descending crotchets, and here we can see that the key is changed to B minor. This leads us nicely into the next real answer of the subject.
@@ -133,9 +133,9 @@ This first, modified HS is another fantastic example of ALTonality (I lied). Nor
 
 This idea of dissonant tonal answers and consonant real answers is one that can be explored further. Let’s compare the next two entrances of the subject:
 
-img src="https://moke8198.github.io/assets/images/fugue13.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue13.png" alt="">
 <div class="captions">Real Answer, bars 9-11</div>
-img src="https://moke8198.github.io/assets/images/fugue14.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue14.png" alt="">
 <div class="captions">Tonal Answer, bars 13-15</div>
 
 As we can see here, the real answer is far more consonant than the tonal answer. In the real answer there is some looseness in tonality, paticularly the use of modal interchange to hint at the major key in bar 10, with the D and G sharps (dark red). However, apart from this the passage is very easy to listen to, especially when compared to what has come before. Here we see the real HS, which helps by being clearly in one key, in this case B minor. It is placed above five notes that are also clearly in the key of B minor. By combining the real HS and the real subject, Bach has created a much more conventional passage of music. 
@@ -149,21 +149,21 @@ This note should really be a E natural. It fits well with the theme of semitones
 <div class="header">Taking a Break </div>
 After this first page or so of music, we are given a taste of more classic Baroque writing, a wonderful sequence of descending polyphonic melody, made out from a short, staggered five note motif:
 
-img src="https://moke8198.github.io/assets/images/fugue15.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue15.png" alt="">
 <div class="captions">Taken from the actual fugue: bar 18, colours show the separate repeated motifs</div>
 
 This little figure of music is in a sense infinite, it can descend forever until we run out of notes. Because of this, it provides a break from the chaotic dissonance with its cyclical harmonic nature; the example below shows how it can repeat forever as it passes through all the keys:
 
-img src="https://moke8198.github.io/assets/images/fugue16.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue16.png" alt="">
 <div class="captions">A short example of how this could be extended, this time in a sequence of four</div>
 
 However, Bach is consistent in his use of this material, and doesn’t let it go on endlessly. He uses three sequences of this motif, an interlude, and then three more sequences back into the main theme.  These six sequences together I call an “episode” of music. There are altogether three episodes in this fugue. The first two are tonally and structurally identical, with the interlude between the sequences a false entry of the theme (the first three notes of the theme): 
 
-img src="https://moke8198.github.io/assets/images/fugue17.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue17.png" alt="">
 
 More excitingly, the third and last episode is extra special. Instead of using the false entry of the subject to break up the six sequences, Bach uses the countersubject!
 
-img src="https://moke8198.github.io/assets/images/fugue18.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue18.png" alt="">
 
 How versatile are the elements of this fugue that they can be substituted here and there as Bach pleases. Even though these elements earlier seemed so dissonant and unlike each other (remember bars 4-6?), now we realise that actually they can work with each other all throughout the music! From three elements in three different “keys” all fighting for attention, we now have different elements fulfilling the same purpose. How is this possible?
 
@@ -173,22 +173,22 @@ I must be honest, when we first spilt the music into the four elements and looke
 
 Similarly, Bach’s subjects in this fugue are equally flexible. This is how he is able to find some order from the chaos, and this order only becomes clearer as we get deeper and deeper into the fugue. I’ve picked out one of the simpler examples of this: Bach’s resolution of the countersubject. If we look at the real countersubject, its resolution looks simple. The semitone resolves a step upwards, like so:
 
-img src="https://moke8198.github.io/assets/images/fugue19.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue19.png" alt="">
 
 However out of the first six playings, only half have this “correct” resolution. The rest all resolve in a exotic diminished fourth, like this example in bar 24:
 
-img src="https://moke8198.github.io/assets/images/fugue20.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue20.png" alt="">
 <div class="captions">D# to G forms a very strange interval</div>
 
 This diminished fourth resolution is slowly weeded out through the rest of the fugue. Although this awkward resolution maintains a similar frequency throughout the piece, it’s overshadowed by a new kind of countersubject: a tonal answer to the original one, in the major key. Below is bar 33:
 
-img src="https://moke8198.github.io/assets/images/fugue21.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue21.png" alt="">
 
 We see first the “bad” resolution of the diminished fourth, but Bach immediately replies it with a “good” resolution of a semitone. The impact of this corrected resolution is even more intenseas it comes with a drastic modulation to the foreign key of C# major, which is both in a far away key and the first time we hear the countersubject in a major tonality. This harmonises nicely with the counterpoint in the right hand, resolving on a perfect C# major chord. Excluding the episodic material which is inherently consonant for a reason, this is literally the first full triad that isn’t implied or suspended, where all three voices are played together on the strong beat(even if it is only for a semiquaver). It’s even in root position! Naturally, it has tremendous impact. We get our first full triad in bar 34 of a baroque work!
 
 Finally, we can look at the last occurrence of the countersubject to see this point quite literally hammered home. Here we see the countersubject repeated three times in sequence, and all of them have the “correct” resolution, right till the end where we have the satisfying conclusion on the long note. 
 
-img src="https://moke8198.github.io/assets/images/fugue22.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue22.png" alt="">
 
 Here is the final resolution of the countersubject; it’s finally willing to play by the rules, and three times in a row at that. We have long left the diminished fourth behind.
 
@@ -196,14 +196,14 @@ Here is the final resolution of the countersubject; it’s finally willing to pl
 
 As we come to the end of the fugue, we also notice the first truly distinct chord progression. Previously a lot of the harmony has been lost in a sea of polyphonic writing, but here there are clearly chords; what is not so clear is what they are and how they fit together.
 
-img src="https://moke8198.github.io/assets/images/fugue23.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue23.png" alt="">
 <div class="captions">Chords of bar 73 respelled into traditional four-part harmony. Rhythm has been left out for clarity</div>
 
 The first one is simple enough, it is the first inversion of the B minor chord. The second chord in this picture is my favourite; the diminished seventh made from two stacked tritones. This resolves in the most crazy way; it resolves to a second inversion C major chord! Does this work, and what makes it work?
 
 This tritone resolution is irregular, the ideal resolution would have both tritones resolving outwards or inwards, like so:
 
-img src="https://moke8198.github.io/assets/images/fugue24.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue24.png" alt="">
 
 While the lower tritone resolves “correctly”, the upper tritone maingtains the C natural and goes <i>down</i> a tone in the alto (I think the technical term for this is “oblique” resolution. Somehow couldn’t find any info online however, someone please tell me if this is right). I think that this mistake is deliberate, Bach is trying to throw us off with this unconventional resolution. This brings even greater effect to the proper resolution we seen in the downbeat of the following bar, where the tritone resolves inwardly <i>and</i> the soprano voice has a nice and predictable semitone resolution in the countersubject, as previously mentioned. Bach has employed more than one technique here to make this final resolution all the more satisfying.
 
@@ -213,12 +213,12 @@ There are two more interesting points to note in this fugue, and for that we hav
 
 Often, <i>stretto</i> is saved for the end of a fugue, as it brings with it a great drama and tension as we approach the final resolution. However, the <i>stretto</i>  in this fugue is actually very light, as the themes are barely stacked on each other. There is only one note where the theme is truly stacked, that is on the final note of the subject a new answer is layered beneath them. Despite this, Bach manages to maintain the polyphonic thickness of a <i>stretto</i>  by decorating the main subject with the other elements of the fugue. In bars 34-35, there is a <i>stretto</i> that incorporates both the subject (blue) and the HS(red), and then swaps them in different voices for maximum effect:
 
-img src="https://moke8198.github.io/assets/images/fugue25.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue25.png" alt="">
 <div class="captions">This is also rare example of free counterpoint, not much material isn’t from the themes of this fugue</div>
 
 The second <i>stretto</i> of this fugue brings with it the second point of interest in this development section: the transformation of the subject into a major mode. While such a chromatic subject faces many difficulties in changing tonality (it is hard to tell if it is minor or major to begin with, so switching between these two modes if not impossible is very tricky), Bach has done something quite clever to the subject to suggest a more major sound. First, the opening triad of the subject has been changed to a major triad, rather than a minor one:
 
-img src="https://moke8198.github.io/assets/images/fugue26.png" alt="">
+<img src="https://moke8198.github.io/assets/images/fugue26.png" alt="">
 <div class="captions">Highlighted E-flat marks temporary return to dissonant minor seconds</div>
 
 In this case, we see the first A Major triad in blue. Bach then goes ahead to change the following semitone into a tone: or a minor second to a major second. This change is not needed for the next two intervals because they are the two semitones in the A Major scale. However, I think Bach did not want to hurt the semitone structure of the subject too much, and that’s why he doesn’t let this theme go on to resolution, but rather layers on another subject on top of it in a <i>stretto</i>. 
