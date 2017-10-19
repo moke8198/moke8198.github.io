@@ -77,7 +77,7 @@ Modulation is definitely an example of another technique that requires a lot of 
 
 <img src="https://moke8198.github.io/assets/images/otello9.png" alt=""> 
 
-(Technically, this isn’t modulation, its tonicisation. However, I feel like modulation is a more commonly understood term and its meaning has more or less blended together with tonicisation today. Don’t sue me.)
+(Technically, this isn’t modulation, it's tonicisation. However, I feel like modulation is a more commonly understood term and its meaning has more or less blended together with tonicisation today. Don’t sue me.)
 
 <div class="header">Pedal Point</div>
 
