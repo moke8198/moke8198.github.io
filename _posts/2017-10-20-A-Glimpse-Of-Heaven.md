@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A glimpse of Heaven: The Nidaros Cathedral Choir"
-crawlertitle: "A glimpse of Heaven: The Nidaros Cathedral Choir"
+title:  "A Glimpse of Heaven: The Nidaros Cathedral Choir"
+crawlertitle: "A Glimpse of Heaven: The Nidaros Cathedral Choir"
 summary: "opinions are my own"
 excerpt: "Review of the fantastic concert held on 20/10/17 by the Nidaros Cathedral Choir and re:sound Orchestra"
 date:   2017-10-20 17:09:47 +0800
