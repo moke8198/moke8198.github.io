@@ -42,4 +42,4 @@ If you are free tomorrow night, please go watch this concert. It was by far the 
 
 A little thing that I noticed, but couldn’t fit in the main body of this review:
 
-Due to the applause after the Gloria, the choir needed help to place the first C natural of the Credo. The fact that the choir could pick up on the faintest cue from the cellos was incredible, and shows the focus and discipline of the choir. To most members in the audience, it would have sounded like someone in the cello accidentally hit one of his strings. Remarkable ensemble work and professionalism.
+Due to the applause after the Gloria, the choir needed help to place the first C natural of the Credo. The fact that they could pick up on the faintest cue from the cellos was incredible, and shows the focus and discipline of the choir. To most members in the audience, it would have sounded like someone in the cello section accidentally hit one of his strings. Remarkable ensemble work and professionalism.
