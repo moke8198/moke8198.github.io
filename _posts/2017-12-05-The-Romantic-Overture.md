@@ -42,7 +42,7 @@ Opera doesn’t tell traditional stories; there is usually very little character
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_WomiJqiPQY" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-Verdi opts to title the music before the singing a <i>prelude</i> rather than an overture. This is usually how its presented today in concerts, as a <i>preludio</i>. This is important as it ties the music even closer to the opera and its characters than an overture would, since the overture is often as previously discussed somewhat separated from the opera. However, I think Verdi only did this <i>because of the common distinction, and he felt that the overture no longer needed to serve the purpose of keeping an audience silent. It is an overture that has <i>evolved</i> into a prelude, only by name.  
+Verdi opts to title the music before the singing a <i>prelude</i> rather than an overture. This is usually how its presented today in concerts, as a <i>preludio</i>. This is important as it ties the music even closer to the opera and its characters than an overture would, since the overture is often as previously discussed somewhat separated from the opera. However, I think Verdi only did this <i>because<i> of the common distinction, and he felt that the overture no longer needed to serve the purpose of keeping an audience silent. It is an overture that has <i>evolved</i> into a prelude, only by name.  
 
 This is even clearer when we finally look at the music, it opens triple piano in only the violins.  The key is kept ambiguous, later we will clearly be in E major, but the first chord is a dark B minor. 
 
