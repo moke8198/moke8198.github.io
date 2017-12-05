@@ -59,7 +59,7 @@ Naturally, the overture also has a waltz, but before we reach it the violin take
 
 <img src="https://moke8198.github.io/assets/images/traviata2.png" alt="">
 
-Alfredo might be visiting her every day, but bedridden and ill she is most definitely still alone throughout the nights. This poignant phrase is the perfect foil to against the lively dance that it precedes.
+Alfredo might be visiting her every day, but bedridden and ill she is most definitely still alone throughout the nights. This poignant phrase is the perfect foil against the lively dance that it precedes.
 
 <div class="header">Waltzing Along</div>
 The dance is a key concept of this opera, in fact the action opens in a dance; Violetta is holding a party for her guests and this is where we are introduced to our main characters. Many of the songs in this opera are either 3/4 or some kind of compound time, which is a rhythmic motif that pervades the opera. For the first act especially, it is largely composed with a large inspiration from dance music. The hugely popular<i>brindisi</i> (drinking song) near the opening is a great example of this. 
