@@ -4,7 +4,7 @@ title:  "The Sound of Broadway: <i>Dear Evan Hansen</i> and <i>Wicked</i>"
 crawlertitle: "The Sound of Broadway: <i>Dear Evan Hansen</i> and <i>Wicked</i>"
 summary: "opinions are my own"
 excerpt: "Analysis of two famous musicals and how Broadway reinvents itself year after year"
-date:   2017-10-16 17:09:47 +0800
+date:   2018-01-09 17:09:47 +0800
 categories: posts
 tags: 'analysis'
 type: 'long'
@@ -121,16 +121,16 @@ For our last pair of songs, let’s look at the funny, less serious song. Almost
 Firstly, the syncopated rhythms are taken to the next level in both of these songs; look at the difficulty of counting some of these lines:
 
 <img src="https://moke8198.github.io/assets/images/broadway16.png" alt="">
-<div class="captions">This offbeat swing rhythm contrasts the metronomic harmonic rhythm</i></div>
+<div class="captions">This offbeat swing rhythm contrasts the metronomic harmonic rhythm</div>
 <img src="https://moke8198.github.io/assets/images/broadway17.png" alt="">
-<div class="captions">We have a similarity here in the ties across bar lines that make things confusing</i></div>
+<div class="captions">We have a similarity here in the ties across bar lines that make things confusing</div>
 <img src="https://moke8198.github.io/assets/images/broadway18.png" alt="">
-<div class="captions>Another interesting passage from <i>Sincerely, Me</i> where the accented chords are on the offbeat!</i></div>
+<div class="captions>Another interesting passage from <i>Sincerely, Me</i> where the accented chords are on the offbeat!</div>
 
 Of all the songs I’ve covered, I believe these two to be the most closely linked and I personally think <i>Sincerely, Me</i> was very much inspired by <i>Popular</i>. We can draw some more direct comparisons between these two songs than the other pairs I’ve covered so far. A four note lead-in preceding a modulation is a feature of both songs:
 
 <img src="https://moke8198.github.io/assets/images/broadway19.png" alt="">
-<div class="captions>Another minor third modulation in <i>Dear Evan Hansen</i></i></div>
+<div class="captions>Another minor third modulation in <i>Dear Evan Hansen</i></div>
 
 <img src="https://moke8198.github.io/assets/images/broadway20.png" alt="">
 
