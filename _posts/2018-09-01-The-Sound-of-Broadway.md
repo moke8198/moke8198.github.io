@@ -50,6 +50,7 @@ In these two examples, the second voice transforms the initial melody just a tou
 Now, let's look at how the music is managed when the singer is solo. In most dramatic musical forms, the main character will get to sing a song or aria that basically introduces them. <i>Waving through a Window</i> and <i>The Wizard and I</i> have so much in common it’s astounding.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kfnMvo87fQU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uZyQwjVRT5c" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <img src="https://moke8198.github.io/assets/images/broadway5.png" alt="">
@@ -81,6 +82,7 @@ Don’t let this fool you, the harmony in <i>Dear Evan Hansen</i> gets quite com
 Most musicals have a love number, and while <i>Wicked</i>’s famous duet <i>For Good</i> is more about friendship, musically it can be compared quite well to the love song <i>Only Us</i> from <i>Dear Evan Hansen</i>. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PPvO1sZkOx0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CQJaZO2nfGg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 Excitingly, modal interchange is presented frequently in these songs; specifically from the Phrygian/Aeolian modes which to me have a very warm quality (flat major three and flat major six specifically). This example from <i>Dear Evan Hansen</i> features in every chorus of <i>Only Us</i>:
@@ -111,6 +113,7 @@ The harmonies and chords are similar, but the effect is very different, especial
 For our last pair of songs, let’s look at the funny, less serious song. Almost every musical features at least some of these, especially for the longer ones. Lovely Ladies (<i>Les Miserables</i>), Look at Me I’m Sandra Dee (<i>Grease</i>), and the three King George songs from <i>Hamilton</i> are examples that many will know. This is not just because they’re good songs; their cheeky lyrics help us keep the melodies in mind for far longer than we would if they were words that we didn’t even understand. The concept of the funny song is very common in opera as well, Figaro’s aria in The Barber of Seville stands out as a piece that is both virtuosic and yet hilarious when performed well. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HOYAA13Bm9M" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_uM8bUnlGQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
 <i>Sincerely, Me</i> (<i>Dear Evan Hansen</i>) and <i>Popular</i> (<i>Wicked</i>) are once again two near-perfect parallel songs. As with the main character’s song, the context of these two songs is very close to each other. Both involve a friend giving the main character some much un-needed advice on how to live their lives. They’re both pretty funny especially if you have a child-like (immature) sense of humour like me, but the music of the songs is where they share the most middle ground.
