@@ -68,7 +68,7 @@ Proving their harmonic strength, suspended chords act as the final “cadence”
 The main characters of these two musicals are both misunderstood and lonely, and struggle to accept themselves over the course of the story. While cliché, this is a trope that is effective and I like how their cadences are often altered to seem unsure. In the case of Evan from <i>Dear Evan Hansen</i>, his final cadence in his chorus is decorated with another suspended chord before resolution. See how this cadence is extended:
 
 <img src="https://moke8198.github.io/assets/images/broadway9.png" alt="">
-<div class="captions">Dsus2 steps in to prolong the progression before we end on the tonic<div>
+<div class="captions">Dsus2 steps in to prolong the progression before we end on the tonic</div>
 
 We see a similar but much more complex extension in the final cadence of The Wizard and I, featuring much more elaborate harmonies, featuring an altered Neapolitan chord:
 
