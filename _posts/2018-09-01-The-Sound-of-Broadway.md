@@ -86,7 +86,7 @@ Most musicals have a love number, and while <i>Wicked</i>’s famous duet <i>For
 Excitingly, modal interchange is presented frequently in these songs; specifically from the Phrygian/Aeolian modes which to me have a very warm quality (flat major three and flat major six specifically). This example from <i>Dear Evan Hansen</i> features in every chorus of <i>Only Us</i>:
 
 <img src="https://moke8198.github.io/assets/images/broadway11.png" alt="">
-<div class="captions">bIII is heard in the second system, A(B double flat) major in the key of G flat<div>
+<div class="captions">bIII is heard in the second system, A(B double flat) major in the key of G flat</div>
 
 In <i>Wicked</i>, we again see a slightly more complex version of this, with the addition of flat major six and seven (Ab and Bb major respectively). This puts it firmly in the Aeolian mode (Phrygian features flat <i>minor</i> seven):
 
@@ -95,9 +95,9 @@ In <i>Wicked</i>, we again see a slightly more complex version of this, with the
 These two songs also end on the same chord; the tonic chord with an added second:
 
 <img src="https://moke8198.github.io/assets/images/broadway13.png" alt="">
-<div class="captions">In another possible connection to the Phrygian mode, <i>Only Us</i> ends a minor third down in key<div>
+<div class="captions">In another possible connection to the Phrygian mode, <i>Only Us</i> ends a minor third down in key</div>
 <img src="https://moke8198.github.io/assets/images/broadway14.png" alt="">
-<div class="captions">A cute bit of syncopation in the last few chords of <i>For Good</i><div>
+<div class="captions">A cute bit of syncopation in the last few chords of <i>For Good</i></div>
 
 The liberal use of suspended chords as both passing chords and cadences gives a lot of colour to the often simple progressions of musicals. If we look at the example from For Good above, we can see that the entire progression is essentially only made out of the three primary chords in a key. Even with the voices singing only the tonic note, this passage of music is kept exciting with its slight dissonances in the clashing tonic and supertonic. (The chord C/F can be respelled as a Csus4/F, and for me as a classical musician these are basically the same).
 
@@ -118,16 +118,16 @@ For our last pair of songs, let’s look at the funny, less serious song. Almost
 Firstly, the syncopated rhythms are taken to the next level in both of these songs; look at the difficulty of counting some of these lines:
 
 <img src="https://moke8198.github.io/assets/images/broadway16.png" alt="">
-<div class="captions">This offbeat swing rhythm contrasts the metronomic harmonic rhythm</i><div>
+<div class="captions">This offbeat swing rhythm contrasts the metronomic harmonic rhythm</i></div>
 <img src="https://moke8198.github.io/assets/images/broadway17.png" alt="">
-<div class="captions">We have a similarity here in the ties across bar lines that make things confusing</i><div>
+<div class="captions">We have a similarity here in the ties across bar lines that make things confusing</i></div>
 <img src="https://moke8198.github.io/assets/images/broadway18.png" alt="">
-<div class="captions>Another interesting passage from <i>Sincerely, Me</i> where the accented chords are on the offbeat!</i><div>
+<div class="captions>Another interesting passage from <i>Sincerely, Me</i> where the accented chords are on the offbeat!</i></div>
 
 Of all the songs I’ve covered, I believe these two to be the most closely linked and I personally think <i>Sincerely, Me</i> was very much inspired by <i>Popular</i>. We can draw some more direct comparisons between these two songs than the other pairs I’ve covered so far. A four note lead-in preceding a modulation is a feature of both songs:
 
 <img src="https://moke8198.github.io/assets/images/broadway19.png" alt="">
-<div class="captions>Another minor third modulation in <i>Dear Evan Hansen</i></i><div>
+<div class="captions>Another minor third modulation in <i>Dear Evan Hansen</i></i></div>
 
 <img src="https://moke8198.github.io/assets/images/broadway20.png" alt="">
 
