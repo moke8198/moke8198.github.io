@@ -3,7 +3,7 @@ layout: post
 title:  "The Sound of Broadway: <i>Dear Evan Hansen</i> and <i>Wicked</i>"
 crawlertitle: "The Sound of Broadway: <i>Dear Evan Hansen</i> and <i>Wicked</i>"
 summary: "opinions are my own"
-excerpt: "Some thoughts about being a part of TPO's Beethoven Cycle"
+excerpt: "Analysis of two famous musicals and how Broadway reinvents itself year after year"
 date:   2017-10-16 17:09:47 +0800
 categories: posts
 tags: 'analysis'
