@@ -6,7 +6,7 @@ summary: "opinions are my own"
 excerpt: "Exploration of romantic overture music with the works of Verdi"
 date:   2017-12-05 17:09:47 +0800
 categories: posts
-tags: 'Analysis'
+tags: 'analysis'
 type: 'long'
 author: michael
 ---
