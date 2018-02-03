@@ -88,9 +88,11 @@ It’s odd then that when it comes to symphonies, I have never heard the repeats
 Oddly enough, it’s in these huge symphonies where I think we can most clearly see that the inclusion of these repeats is actually necessary. The repeat of the theme in its home key helps to reinforce the idea that we still have a home to come to even in the midst of all the lavish instrumentation and fragmented motifs. We can also see that Mahler’s use of the repeat is once again <i>intentional</i> as in the monstrous 30 minute first movement of the third symphony, there is no repeat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHn-EJtYwd8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-Another wonderful piece of music. Post on Mahler is due sometime for sure
+<div class="captions">Another wonderful piece of music. Post on Mahler is due sometime for sure</div>
 
 <i>Speculation: This movement needs no repeat because of its length, and also its motif is familiar being a quotation of the finale of Brahms’s first symphony.</i>
+
+<div class="header">Better Performance Practice</div>
 
 Why do so many musicians omit the repeats from their performance? For examination, I can accept this practice as the purpose behind an examination isn’t really for the examiners to enjoy themselves listening to your music. However, I think there are more insidious reasons behind the practice of omitting repeats in performance.
 
