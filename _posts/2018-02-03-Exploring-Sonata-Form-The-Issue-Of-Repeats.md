@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Writing Better Chord Progressions-Inspirations from Verdi’s Ave Maria"
-crawlertitle: "Writing Better Chord Progressions-Inspirations from Verdi’s Ave Maria"
+title:  "Exploring Sonata-form: The Issue of Repeats"
+crawlertitle: "Exploring Sonata-form: The Issue of Repeats"
 summary: "opinions are my own"
-excerpt: "The importance of improvisation, and tips for developing harmonic language"
+excerpt: "Thoughts on the performance practice of omitting repeats in sonata-form movements"
 date:   2018-02-037:09:47 +0800
 categories: posts
 tags: 'performance'
