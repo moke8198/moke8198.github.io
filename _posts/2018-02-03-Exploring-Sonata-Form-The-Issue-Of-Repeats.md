@@ -4,7 +4,7 @@ title:  "Exploring Sonata-form: The Issue of Repeats"
 crawlertitle: "Exploring Sonata-form: The Issue of Repeats"
 summary: "opinions are my own"
 excerpt: "Thoughts on the performance practice of omitting repeats in sonata-form movements"
-date:   2018-02-037:09:47 +0800
+date:   2018-02-03 17:09:47 +0800
 categories: posts
 tags: 'performance'
 type: 'long'
