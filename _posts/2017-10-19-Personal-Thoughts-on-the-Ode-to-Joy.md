@@ -6,7 +6,7 @@ summary: "for once, not Michael's opinions"
 excerpt: "First guest post! My friend's thoughts on the Ode to Joy from Beethoven's Ninth Symphony"
 date:   2017-10-18 17:09:47 +0800
 categories: posts
-tags: 'guest'
+tags: 'other'
 type: 'long'
 author: jonathan
 ---
