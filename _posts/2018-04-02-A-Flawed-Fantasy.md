@@ -11,9 +11,9 @@ type: 'long'
 author: michael
 ---
 
-Being a student in NAFA, I’ve had the privilege of experiencing some great choral repertoire. Although I am a pianists by trade, I’ve always enjoyed choir more than most of my boring performance classes and faculty lessons. From The Creation in my first year to the third Bruckner Mass where we worked with the SSO, choir has largely been a positive experience for me and one of the few reasons for me to consider my time in NAFA valuable.
+Being a student in NAFA, I’ve had the privilege of experiencing some great choral repertoire. Although I am a pianist by trade, I’ve always enjoyed choir more than most of my boring performance classes and faculty lessons. From The Creation in my first year to the third Bruckner Mass where we worked with the SSO, choir has largely been a positive experience for me and one of the few reasons for me to consider my time in NAFA valuable.
 
-However, this semester we are singing Beethoven's <i)Choral Fantasy</i>, and preperations have gone from bad to worse. I have nothing against the work; although in my opinion it is a pale reflection of the genius of Beethoven. At best, it’s a draft for the Missa Solemnis and the Ninth, but still it’s a score that can be studied and appreciated by music students. What I do have a problem with is the way this work was rehearsed and the arrangements for its final performance, it’s been an absolute joke throughout. 
+However, this semester we are singing Beethoven's <i>Choral Fantasy</i>, and preperations have gone from bad to worse. I have nothing against the work; although in my opinion it is a pale reflection of the genius of Beethoven. At best, it’s a draft for the Missa Solemnis and the Ninth, but still it’s a score that can be studied and appreciated by music students. What I do have a problem with is the way this work was rehearsed and the arrangements for its final performance, it’s been an absolute joke throughout. 
 
 Disclaimer: This post is going to be highly opinionated and I might be wrong about some things as I don’t necessarily know the finer details behind the school's motivation, but I’ve sent emails to the faculty with no response and I’m extremely frustrated. I will edit this if someone replies my emails.
 
