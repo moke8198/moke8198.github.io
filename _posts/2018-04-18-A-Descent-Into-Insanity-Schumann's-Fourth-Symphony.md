@@ -76,7 +76,7 @@ This suspension of the dominant over the original chord once again complicates m
 
 In the mid-1800s, the world was obsessed with the Beethoven symphonies. Considered then and possibly even still today as the greatest set of symphonies ever written, they were the gold standard of what a composer should try and achieve with an orchestra. Standing alongside them were the incredible 41 Mozart symphonies; these classical symphonies were considered a triumph particularly in the art of form. In Beethoven and Mozart, the themes and motifs seem to so effortlessly flow from each other and yet somehow fit together in an intricate, usually mathematical form. This is the beauty of the classical symphony.
 
-I believe Schumann (especially in his earlier years) strived very much to be like the great classical composers in his symphonic writing, evidence of this can be seen in his Third symphony which shares an opening theme much like the Eroica:
+I believe Schumann (especially in his earlier years) strived very much to be like the great classical composers in his symphonic writing, evidence of this can be seen in his Third symphony which has an opening theme much like the Eroica:
 
 <img src="https://moke8198.github.io/assets/images/schumann8.png" alt="">
 <div class="captions">Opening of the Third Symphony, winds and brass form an E flat chord on this melody by first violin. </div>
