@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "La Boheme:Where Singing Trumps Staging"
-crawlertitle: "La Boheme:Where Singing Trumps Staging"
+title:  "La Boheme: Where Singing Trumps Staging"
+crawlertitle: "La Boheme: Where Singing Trumps Staging"
 summary: "opinions are my own"
 excerpt: "Review of the concert production of La Boheme by the SSO"
 date:   2018-05-01 17:09:47 +0800
