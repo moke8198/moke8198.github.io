@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dialogues des Carmelites: Brilliant Staging, Mediocre Music"
-crawlertitle: BDialogues des Carmelites: Brilliant Staging, Mediocre Music"
+crawlertitle: "Dialogues des Carmelites: Brilliant Staging, Mediocre Music"
 summary: "opinions are my own"
 excerpt: "Review of Singapore New Opera's production of Dialogues des Carmelites"
 date:   2018-08-04 17:09:47 +0800
